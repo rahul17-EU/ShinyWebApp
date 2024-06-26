@@ -1,6 +1,6 @@
-# Data Science with R - Final Project Submission by Team 7
+# Data Science with R 
 
-This repository contains the final project submission for the Data Science with R course by Team 7. The project is a Shiny app for analyzing the quality of red wine using various machine learning models.
+The project is a Shiny app for analyzing the quality of red wine using various machine learning models.
 
 ## Viewing the Application
 
